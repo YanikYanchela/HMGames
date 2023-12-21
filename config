@@ -1,0 +1,12 @@
+
+# --- Sourcetree Generated ---
+Host github.com
+	HostName github.com
+	User YanikYanchela
+	PreferredAuthentications publickey
+	IdentityFile ~/.ssh/id_ed25519
+	UseKeychain yes
+	AddKeysToAgent yes
+        IdentitiesOnly yes
+# ----------------------------
+
